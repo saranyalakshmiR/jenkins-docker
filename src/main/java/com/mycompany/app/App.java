@@ -1,5 +1,4 @@
 package com.mycompany.app; 
-import javax.swing.*;
 /**
  * Hello world!
  *
